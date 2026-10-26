@@ -4,4 +4,4 @@ Notre groupe apprend à utiliser GitKraken.
 
 Projet de démonstration sous Zorin OS.
 
-vPremière modification réalisée par le Groupe 1 avec GitKraken.fsdfsfsgffxngxfnxfnxfcqc
+vPremière modification réalisée par le Groupe 1 avec GitKraken.fsdfsfsgffxngxfnxfnxfcqcbv
